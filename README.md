@@ -8,8 +8,7 @@
 
 
 ## :paw_prints: &nbsp;Stats
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=RynoLiu&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![](https://github-readme-stats.vercel.app/api?username=RynoLiu&show_icons=true&count_private=true&hide=prs&theme=default_repocard?colors=#fff)
 
-
-
+<!-- ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=RynoLiu&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) -->
 
