@@ -10,8 +10,8 @@
 ## :paw_prints: &nbsp;Stats
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=RynoLiu&rank_icon=github&custom_title=Ryno's%20Stats&show_icons=true&include_all_commits=true&theme=solarized-light" alt="GitHub Stats" />
-  <img width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RynoLiu&theme=solarized-light&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=RynoLiu&rank_icon=github&custom_title=Ryno's%20Stats&show_icons=true&include_all_commits=true&border_radius=10&theme=solarized-light" alt="GitHub Stats" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RynoLiu&theme=solarized-light&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
 </p>
 
 ## :snake: &nbsp;My Contributions
