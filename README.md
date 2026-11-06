@@ -21,9 +21,9 @@
   <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RynoLiu&theme=solarized-light&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
 </p>
 
-## :snake: &nbsp;My Contributions
+<!-- ## :snake: &nbsp;My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RynoLiu/RynoLiu/blob/output/github-contribution-grid-snake-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RynoLiu/RynoLiu/blob/output/github-contribution-grid-snake.gif" />
   <img alt="snake animation" src="https://github.com/RynoLiu/RynoLiu/blob/output/github-contribution-grid-snake.gif" />
-</picture>
+</picture> -->
